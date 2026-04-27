@@ -1,0 +1,13 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+CA-2026-100001,2026-01-05,2026-01-08,Second Class,CG-12520,Aisha Karimova,Consumer,Uzbekistan,Tashkent,Tashkent,Central,Technology,Phones,820.5,2,0.0,164.1
+CA-2026-100002,2026-01-06,2026-01-10,Standard Class,DV-13045,Bekzod Ergashev,Corporate,Uzbekistan,Samarkand,Samarkand,West,Furniture,Chairs,450.0,3,0.1,54.0
+CA-2026-100003,2026-01-07,2026-01-09,First Class,HM-14890,Malika Ismailova,Home Office,Uzbekistan,Bukhara,Bukhara,West,Office Supplies,Binders,75.2,5,0.0,20.3
+CA-2026-100004,2026-01-08,2026-01-12,Standard Class,RS-21470,Rustam Saidov,Consumer,Uzbekistan,Fergana,Fergana,East,Technology,Accessories,120.0,4,0.2,12.0
+CA-2026-100005,2026-01-09,2026-01-11,Second Class,LN-19015,Lola Nazarova,Corporate,Uzbekistan,Andijan,Andijan,East,Office Supplies,Paper,34.5,6,0.0,
+CA-2026-100006,2026-01-10,2026-01-14,Standard Class,TB-10230,Temur Bekov,Consumer,Uzbekistan,Tashkent,Tashkent,Central,Furniture,Tables,980.0,1,0.15,-45.0
+CA-2026-100007,2026-01-11,2026-01-13,First Class,NS-17555,Nodira Sultonova,Home Office,Uzbekistan,Namangan,Namangan,East,Technology,Laptops,1350.0,1,0.05,250.0
+CA-2026-100008,2026-01-12,2026-01-16,Standard Class,AS-16640,Aziz Sharipov,Consumer,Uzbekistan,Nukus,Karakalpakstan,North,Office Supplies,Storage,210.0,2,0.0,42.0
+CA-2026-100009,2026-01-13,2026-01-15,,MK-14500,Madina Kamilova,Corporate,Uzbekistan,Urgench,Khorezm,North,Furniture,Bookcases,610.0,2,0.1,61.0
+CA-2026-100010,2026-01-14,2026-01-17,Standard Class,OY-11880,Oybek Yuldashev,Consumer,Uzbekistan,Tashkent,Tashkent,Central,Technology,Phones,760.0,2,0.0,152.0
+CA-2026-100011,2026-01-15,2026-01-19,Second Class,DN-13210,Dilnoza Norboeva,Home Office,Uzbekistan,Samarkand,Samarkand,West,Office Supplies,Art,58.0,7,0.0,11.6
+CA-2026-100012,2026-01-16,2026-01-18,First Class,IB-17200,Islom Bobomurodov,Corporate,Uzbekistan,Jizzakh,Jizzakh,Central,Technology,Accessories,145.0,5,0.1,21.75
