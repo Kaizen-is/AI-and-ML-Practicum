@@ -171,4 +171,4 @@ Three worked examples (a typical customer, a high-value frequent customer, and a
 
 ## Author
 
-`<FILL IN — your full name>`
+`Islom Amanullayev`
